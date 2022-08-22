@@ -24,7 +24,7 @@ Tools and technologies that you learnt and used in the project.
 * Open Notify - http://open-notify.org/Open-Notify-API/ISS-Location-Now/
 
 ## Project Setup
->* First of you need to specify your Latitude and Longitude to the bot. 
+* First of you need to specify your Latitude and Longitude to the bot. 
 * To find out your current Latitude and Longitude Go to https://www.latlong.net/
 * You will also need to provide your Email address and password to the bot.
 * Once everything is done, Press the Run command.
