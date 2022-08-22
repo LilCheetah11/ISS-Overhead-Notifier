@@ -5,8 +5,8 @@ import time
 
 MY_LAT = 18.147528 # Your latitude
 MY_LONG = 73.977127 # Your longitude
-my_email="oktim3070test@yahoo.com"
-my_password="nkvgpjvabmhxqixg"
+my_email="Enter Your Email Address Here"
+my_password="Enter Your Password"
 
 response = requests.get(url="http://api.open-notify.org/iss-now.json")
 response.raise_for_status()
